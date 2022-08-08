@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+}
+
+.contenedor{
+    margin: 0 auto;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.contenedor div {
+    width: 50%;
+    text-align: center;
+}
+
+.button{
+    background-color: navy;
+    color: white;
+    padding: 15px 45px;
+    border: none;
+}
+
+.button;:hover{
+    cursor: pointer;
+}
+
+/* agregar a GTM */
+
+.btn-elogia{
+    background-color: goldenrod;
+    padding: 15px 45px;
+    border: none;
+    border-radius: 15px;
+}
+
+.btn-elogia:hover{
+    cursor: pointer;
+}
